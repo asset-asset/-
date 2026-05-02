@@ -206,7 +206,7 @@ Asset-asset
 ---
 
 ### 📄 ライセンス
-MIT License
+Apache 2.0 License
 
 ---
 
@@ -403,4 +403,4 @@ Asset-Asset
 ---
 
 ### 📄 License
-MIT License
+Apache 2.0 License
