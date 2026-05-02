@@ -201,7 +201,7 @@ x-cache: HIT / MISS
 ---
 
 ### 👨‍💻 メンテナー
-Core Systems Engineering Team
+Asset-asset
 
 ---
 
@@ -398,7 +398,7 @@ x-cache: HIT / MISS
 ---
 
 ### 👨‍💻 Maintainers
-Core Systems Engineering Team
+Asset-Asset
 
 ---
 
