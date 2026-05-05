@@ -7,7 +7,7 @@
       }
 
       .cls-2 {
-        fill: #231815;
+        fill: #000000;
       }
 
       .cls-3 {
@@ -15,7 +15,7 @@
       }
     </style>
     <linearGradient id="_名称未設定グラデーション_70" data-name="名称未設定グラデーション 70" x1="1182.97" y1="1152.06" x2="6147.64" y2="6116.73" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0" stop-color="#00913a"/>
       <stop offset=".45" stop-color="#55b332"/>
       <stop offset="1" stop-color="#8cc444"/>
     </linearGradient>
